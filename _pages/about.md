@@ -21,5 +21,5 @@ I am a Ph.D. student in [Computer Science](https://www.cs.rutgers.edu/) at [Rutg
 
 I am interested in unsupervised scene representation learning and I am focusing on object-centric scene representations. I am also interested in the applications of object-centric scene representations in reinforcement learning.
 
-Before joining Ph.D. in 2018, I worked at IBM Research India for 3 years. I received a Bachelor of Technology degree from Indian Institute of Technology (IIT) Guwahati in 2015. I also spent a summer at Korea Advanced Institute of Science and Technology (KAIST) as a research intern in 2014.
+Before joining Ph.D. in 2018, I worked at [IBM Research India](https://www.research.ibm.com/labs/india/) for 3 years. I received a Bachelor of Technology degree from [Indian Institute of Technology (IIT) Guwahati](https://www.iitg.ac.in/) in 2015. I also spent a summer at [Korea Advanced Institute of Science and Technology (KAIST)](kaist.ac.kr) as a research intern in 2014.
 

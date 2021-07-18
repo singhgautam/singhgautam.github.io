@@ -138,6 +138,7 @@ Starting version [v0.3.5](https://github.com/alshedivat/al-folio/releases/tag/v0
 If you need to manually re-deploy your website to GitHub pages, run the deploy script from the root directory of your repository:
 ```bash
 $ ./bin/deploy [--user]
+$ ./bin/deploy -s source -d master
 ```
 uses the `master` branch for the source code and deploys the webpage to `gh-pages`.
 The optional flag `--user` tells it to deploy to `master` and use `source` for the source code instead.
